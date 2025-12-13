@@ -1,0 +1,64 @@
+*   {
+    margin: 0px;
+    padding: 0px;
+}
+
+body  {
+    font-family: "Vidaloka", serif;
+}
+
+.navbar {
+    height: 45px;
+}
+
+.navbar-brand   {
+    font-weight: 700;
+    font-size: 25px;
+    font-family: "Vidaloka", serif;
+}
+
+.navbar-collapse    {
+    justify-content: right;
+    align-items: end;
+    font-size: 18px;
+}
+
+.hero-section {
+  background-image: url("../img/fondo-header.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fa-stethoscope   {
+    font-size: 30px;
+}
+
+.fa-file-pen  {
+    font-size: 30px;
+}
+
+.fa-computer    {
+    font-size: 30px;
+}
+
+.text-color {
+    color: #b80e63;
+}
+
+.container  {
+    justify-content: center;
+}
+
+.card-img-top   {
+    width: 180px;
+    height: 140px;
+}
+
+.card-text{
+    font-family: "Vidaloka", serif;
+}
+
+.table  {
+    width: 800px;
+}
